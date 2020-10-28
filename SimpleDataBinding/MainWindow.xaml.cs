@@ -24,5 +24,6 @@ namespace SimpleDataBinding
         {
             InitializeComponent();
         }
+        
     }
 }
